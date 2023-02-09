@@ -1,0 +1,1 @@
+countPath(n,i+1,j) + countPath(n,i,j+1)
